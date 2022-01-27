@@ -10,8 +10,8 @@ h1{
 .main{
     display: flex;
     flex-direction: row;
-    height:2300px;
-    width:1350px;
+    /* height:2300px;
+    width:1350px; */
     background-color: rgb(238, 216, 118);
 
 }
